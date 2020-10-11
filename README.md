@@ -11,8 +11,7 @@
 <h2>
 </h2>
 <h3>O que é o Next Level Week?</h3>
-
-O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. Programação é uma disciplina prática. Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler a documentação: você precisa colocar a mão no código.
+	O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. Programação é uma disciplina prática. Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler a documentação: você precisa colocar a mão no código.
 
 	
 
