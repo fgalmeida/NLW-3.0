@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://images.prismic.io/rocketseat/e6827e7a-bc79-45fb-85ef-d94ba2c570da_OG+%28versa%CC%83o+%2303%29.png?auto=compress,format&rect=0,0,1200,630&w=1200&h=630" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://images.prismic.io/rocketseat/e6827e7a-bc79-45fb-85ef-d94ba2c570da_OG+%28versa%CC%83o+%2303%29.png?auto=compress,format&rect=0,0,1200,630&w=1200&h=630" width="500px" />
 </h1>
 
 <h2 align="center"> 
@@ -13,8 +13,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=fgalmeida.NLW-3.0)
 <br />
 
-<h3>O que é o Next Level Week?</h3>
-	O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. Programação é uma disciplina prática. Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler a documentação: você precisa colocar a mão no código.
+## O que é o Next Level Week?
+O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. Programação é uma disciplina prática. Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler a documentação: você precisa colocar a mão no código.
 
 ### Programação
 - Dia 1: Acelerando sua evolução 12/10
