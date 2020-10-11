@@ -2,5 +2,5 @@
 	:heavy_check_mark:  NextLevelWeek 3.0 🚀 :heavy_check_mark:
 </h1>
 <h2 align = "center">
-	${your.username}.${your.repo.id}, https://visitor-badge.laobi.icu/badge?page_id=fgalmeida
+	![](https://visitor-badge.glitch.me/badge?page_id=fgalmeida.NLW-3.0)
 </h2>
