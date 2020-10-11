@@ -1,6 +1,10 @@
-<h1 align="center"> 
-	:heavy_check_mark:  NextLevelWeek 3.0 🚀 :heavy_check_mark:
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://images.prismic.io/rocketseat/e6827e7a-bc79-45fb-85ef-d94ba2c570da_OG+%28versa%CC%83o+%2303%29.png?auto=compress,format&rect=0,0,1200,630&w=1200&h=630" width="250px" />
 </h1>
+
+<h2 align="center"> 
+	:heavy_check_mark:  NextLevelWeek 3.0 🚀 :heavy_check_mark:
+</h2>
 <br/>
 <a href="https://www.instagram.com/fgalmeida_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
