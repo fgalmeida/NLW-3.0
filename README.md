@@ -35,4 +35,4 @@ Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.co
 
 Made by Felipe Almeida [Instagram](https://www.instagram.com/fgalmeida_/)
 
-Design inspirado no Readme NLW 1.0 @DanielObara
+Design inspirado no Readme NLW 1.0 [@DanielObara](https://github.com/DanielObara)
