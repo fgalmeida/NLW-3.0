@@ -7,12 +7,11 @@
 </h2>
 <p align="center">
 <a href="https://www.instagram.com/fgalmeida_/">
-  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img src="https://img.shields.io/badge/Made by -Felipe Almeida-red">
 </a>
-
- <a href="">
+<a href="">
     <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=fgalmeida.NLW-3.0">
- </a>
+</a>
 </p>
 
 ## O que é o Next Level Week?
