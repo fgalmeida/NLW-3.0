@@ -27,7 +27,7 @@ O NLW é um evento com muito código, desafios, networking e um único objetivo:
 - Dia Done! Next. 19/10
 
 ## 💻 Projeto
-
+Happy: Visite orfanatos e mude o dia de muitas crianças.
 
 ## :memo: Licença
 
