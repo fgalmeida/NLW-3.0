@@ -18,7 +18,7 @@
 O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. Programação é uma disciplina prática. Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler a documentação: você precisa colocar a mão no código.
 
 ### 📍 Programação
-- Dia 1: Acelerando sua evolução 12/10
+- Dia 1: Acelerando sua evolução 12/10 ✔️
 - Dia 2: Olhando para as oportunidades 13/10
 - Dia 3: A escolha da Stack 14/10
 - Dia 4: Até 2 anos em 2 meses 15/10
