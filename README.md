@@ -22,10 +22,10 @@ O NLW é um evento com muito código, desafios, networking e um único objetivo:
 - Dia 1: Olhando para as oportunidades 12/10 ✔️
 - Dia 2: A escolha da Stack 13/10 ✔️
 - Dia 3: Até 2 anos em 2 meses 14/10 ✔️
-- Dia 4: A Milha extra 15/10
-- Dia 5: Tudo sobre o GoStack 16/10
-- Dia Encerramento 18/10
-- Dia Done! Next. 19/10
+- Dia 4: A Milha extra 15/10 ✔️
+- Dia 5: Tudo sobre o GoStack 16/10 ✔️
+- Dia Encerramento 18/10 ✔️
+- Dia Done! Next. 19/10 ✔️
 
 ## 💻 Projeto
 Happy: Visite orfanatos e mude o dia de muitas crianças.
