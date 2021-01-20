@@ -30,6 +30,22 @@ O NLW é um evento com muito código, desafios, networking e um único objetivo:
 ## 💻 Projeto
 Happy: Visite orfanatos e mude o dia de muitas crianças.
 
+### ⚙️ Backend
+1. Acesse a pasta *backend* e dê o comando `yarn install`
+1. Acesse novamente a pasta *backend* e dê o comando `yarn dev`
+
+### 🌐 Web
+1. Acesse o diretório e dê o comando `yarn install`
+1. Acesse a pasta *web* e dê o comando `yarn start`
+1. Acesse em seu navegador a seguinte url `http://localhost:3000`
+
+### 📱 Mobile
+1. Instale o **Expo** em seu celular.
+1. Instale o **Expo CLI** com o comando `yarn global add expo-cli`
+1. Acesse a pasta *mobile* e dê o comando `yarn install`
+1. Acesse novamente a pasta *mobile* e dê o comando `yarn start`
+1. Será aberto uma página no navegador com um *QR CODE*, leia-o com o aplicativo do **Expo**
+
 ## :memo: Licença
 
 Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.com/fgalmeida/NLW-3.0/blob/main/LICENSE) para obter detalhes.
