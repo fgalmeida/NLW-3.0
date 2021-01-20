@@ -50,6 +50,6 @@ Happy: Visite orfanatos e mude o dia de muitas crianças.
 
 Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.com/fgalmeida/NLW-3.0/blob/main/LICENSE) para obter detalhes.
 
-Made by Felipe Almeida [Instagram](https://www.instagram.com/fgalmeida_/)
+Made by Felipe Almeida [Instagram](https://www.instagram.com/fgalmeida_/) 
 
 Design inspirado no Readme NLW 1.0 [@DanielObara](https://github.com/DanielObara)
